@@ -1,0 +1,10 @@
+.tileone {
+    display: block;
+    background-image: url("/imgs/ee/BLOCKS_front.png");
+    width: 16px;
+    height: 16px;
+    margin: 5%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px;
+    
+}
